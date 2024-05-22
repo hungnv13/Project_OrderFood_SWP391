@@ -93,7 +93,7 @@
                                 <div class="product__item__text">
                                     <h6><a href="Shop-detail.jsp">${o.name}</a></h6>
                                     <div class="product__item__price">${o.price}</div>
-                                    <div class="d-grid gap-2"><a class="btn btn-lg btn-danger" href="#!" role="button">Order now</a></div>
+                                    <div class="d-grid gap-2"><a class="btn btn-lg btn-danger" href="#" role="button">Order now</a></div>
                                 </div>
                             </div>
                         </div>
@@ -109,42 +109,55 @@
             <div class="container">
                 <div class="row">
                     <div class="categories__slider owl-carousel">
-                        <div class="categories__item">
-                            <div class="categories__item__icon">
-                                <span class="flaticon-029-cupcake-3"></span>
-                                <h5>Phở</h5>
+                        <a href="link_for_pho">
+                            <div class="categories__item">
+                                <div class="categories__item__icon">
+                                    <span class="flaticon-029-cupcake-3"></span>
+                                    <h5>Phở</h5>
+                                </div>
                             </div>
-                        </div>
-                        <div class="categories__item">
-                            <div class="categories__item__icon">
-                                <span class="flaticon-034-chocolate-roll"></span>
-                                <h5>Butter</h5>
+                        </a>
+                        <a href="link_for_butter">
+                            <div class="categories__item">
+                                <div class="categories__item__icon">
+                                    <span class="flaticon-034-chocolate-roll"></span>
+                                    <h5>Butter</h5>
+                                </div>
                             </div>
-                        </div>
-                        <div class="categories__item">
-                            <div class="categories__item__icon">
-                                <span class="flaticon-005-pancake"></span>
-                                <h5>Red Velvet</h5>
+                        </a>
+                        <a href="link_for_red_velvet">
+                            <div class="categories__item">
+                                <div class="categories__item__icon">
+                                    <span class="flaticon-005-pancake"></span>
+                                    <h5>Red Velvet</h5>
+                                </div>
                             </div>
-                        </div>
-                        <div class="categories__item">
-                            <div class="categories__item__icon">
-                                <span class="flaticon-030-cupcake-2"></span>
-                                <h5>Biscuit</h5>
+                        </a>
+                        <a href="link_for_biscuit">
+                            <div class="categories__item">
+                                <div class="categories__item__icon">
+                                    <span class="flaticon-030-cupcake-2"></span>
+                                    <h5>Biscuit</h5>
+                                </div>
                             </div>
-                        </div>
-                        <div class="categories__item">
-                            <div class="categories__item__icon">
-                                <span class="flaticon-006-macarons"></span>
-                                <h5>Donut</h5>
+                        </a>
+                        <a href="link_for_donut">
+                            <div class="categories__item">
+                                <div class="categories__item__icon">
+                                    <span class="flaticon-006-macarons"></span>
+                                    <h5>Donut</h5>
+                                </div>
                             </div>
-                        </div>
-                        <div class="categories__item">
-                            <div class="categories__item__icon">
-                                <span class="flaticon-006-macarons"></span>
-                                <h5>Cupcake</h5>
+                        </a>
+                        <a href="link_for_cupcake">
+                            <div class="categories__item">
+                                <div class="categories__item__icon">
+                                    <span class="flaticon-006-macarons"></span>
+                                    <h5>Cupcake</h5>
+                                </div>
                             </div>
-                        </div>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -251,39 +264,39 @@
                                 <span>Follow us on instagram</span>
                                 <h2>Sweet moments are saved as memories.</h2>
                             </div>
-                            <h5><i class="fa fa-instagram"></i> @sweetcake</h5>
+                            <h5><i class="fa fa-instagram"></i>@fourfoodhd</h5>
                         </div>
                     </div>
                     <div class="col-lg-8">
                         <div class="row">
                             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                                 <div class="instagram__pic">
-                                    <img src="img/instagram/instagram-1.jpg" alt="">
+                                    <img src="img/instagram/caramel.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                                 <div class="instagram__pic middle__pic">
-                                    <img src="img/instagram/instagram-2.jpg" alt="">
+                                    <img src="img/instagram/Icecream.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                                 <div class="instagram__pic">
-                                    <img src="img/instagram/instagram-3.jpg" alt="">
+                                    <img src="img/instagram/Macaron.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                                 <div class="instagram__pic">
-                                    <img src="img/instagram/instagram-4.jpg" alt="">
+                                    <img src="img/instagram/tra_ngoc_trai_dau_tam.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                                 <div class="instagram__pic middle__pic">
-                                    <img src="img/instagram/instagram-5.jpg" alt="">
+                                    <img src="img/instagram/tra_xanh_dau_do.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                                 <div class="instagram__pic">
-                                    <img src="img/instagram/instagram-3.jpg" alt="">
+                                    <img src="img/instagram/PhinDi_kem_sua.jpg" alt="">
                                 </div>
                             </div>
                         </div>
