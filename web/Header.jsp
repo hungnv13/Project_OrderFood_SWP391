@@ -99,7 +99,7 @@
                     <div class="col-lg-12">
                         <nav class="header__menu mobile-menu">
                             <ul>
-                                <li class="active"><a href="Index.jsp">Home</a></li>
+                                <li class="active"><a href="Home.jsp">Home</a></li>
                                 <li><a href="About.jsp">About</a></li>
                                 <li><a href="Shop.jsp">Shop</a></li>
                                 <li><a href="#">Pages</a>
